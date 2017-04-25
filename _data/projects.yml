@@ -1,12 +1,16 @@
 # Projects
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: DockerBR
+  role: Founder
+  duration: 2015 &mdash; Present
+  description: User group to discuss about Docker and related tools.
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+- project: Docker Captain
+  role: Captain
+  duration: 2016 &mdash; Present
+  description: Docker Captains are Docker experts and leaders in their communities who demonstrate a commitment to sharing their Docker knowledge with others.
+
+- project: Book Infrastructure as code
+  role: Reviewer
+  description: I reviewed the testing of infrastructure code chapter of book Infrastructure as Code, written by Kief Morris, from O'Reilly Publishing.
