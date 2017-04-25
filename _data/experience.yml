@@ -1,6 +1,6 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
+- company: Thoughtworks
   position: Senior consultant infra automation/developer
   duration: Jul, 2013 &mdash; Present
   summary: My job is to help my team to produce software using DevOps culture, and have fun while doing it, because we are all human! <br> Team member of an agile team that delivers and mantains solutions for Thoughtworks. Worked as devops consultant of a agile team distributed in Belo Horizonte (Brazil), Porto Alegre (Brazil), Chicago (USA) and Quito (Equador). This project used many technologies such as Gitlab, Ansible, GoCD, Docker, ServerSpec, and continuous delivery. In the last 11 months I worked as a DevOps consultant helping a group of developers to have your own self service infrastructure using infra as code.	<br> Technologies <br><ul class="resume-item-list"><li>Ansible</li><li>Docker</li><li>Gitlab</li><li>GoCD (Alternative of Jenkins)</li><li>AWS</li><li>Ec2 with AutoScaling and Blue Green Deployment (AWS instances)</li><li>Python</li></ul>
